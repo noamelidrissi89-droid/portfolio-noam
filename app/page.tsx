@@ -1,7 +1,7 @@
 'use client';
 
 import { useRef, useState } from 'react';
-import { Braces, Code2, Github, Layers3, Menu, X, Linkedin, Mail, Plus, Terminal, Check, Globe2 } from 'lucide-react';
+import { Braces, Code2, GitFork as Github, Layers3, Menu, X, Link as Linkedin, Mail, Plus, Terminal, Check, Globe2 } from 'lucide-react';
 import { profile, projects } from '@/data/portfolio';
 
 function ProjectPreview({ kind }: { kind: string }) {
