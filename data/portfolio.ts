@@ -2,7 +2,7 @@
 export const profile = {
   name: 'Noam',
   role: 'Développeur web',
-  email: '', // Ajoute ton adresse pour activer le lien de contact.
+  email: 'noamelidrissi89@gmail.com',
   github: '', // Exemple : https://github.com/ton-pseudo
   linkedin: '',
 };
